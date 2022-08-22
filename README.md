@@ -1,2 +1,1 @@
-# Data-Science-Projects-UTAustin-
-Hand-on projects
+# Data-Science-Hands-on-Projects
